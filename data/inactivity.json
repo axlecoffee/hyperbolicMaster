@@ -1,0 +1,35 @@
+{
+  "4855c53ee4fb4100997600a92fc50984": {
+    "username": "DuckySoSkilled",
+    "uuid": "4855c53ee4fb4100997600a92fc50984",
+    "discord": "DuckySoLucky#5181",
+    "discord_id": "486155512568741900",
+    "requested": "1683476412",
+    "requested_formatted": "5/7/2023, 6:20:12 PM",
+    "expiration": "7681364411",
+    "expiration_formatted": "5/31/2213, 6:20:11 PM",
+    "reason": "None"
+  },
+  "2700c8b565c74d8e9be5eb7a6ae19295": {
+    "username": "FemboyDark",
+    "uuid": "2700c8b565c74d8e9be5eb7a6ae19295",
+    "discord": "Dark#6469",
+    "discord_id": "622326625530544128",
+    "requested": "1672933984",
+    "requested_formatted": "1/5/2023, 4:53:04 PM",
+    "expiration": "1674143584",
+    "expiration_formatted": "1/19/2023, 4:53:04 PM",
+    "reason": "Test"
+  },
+  "7301afb195ac4f35907d8a2d88ee8885": {
+    "username": "Udderly_cool",
+    "uuid": "7301afb195ac4f35907d8a2d88ee8885",
+    "discord": "Kathund#2004",
+    "discord_id": "608584543506530314",
+    "requested": "1681918626",
+    "requested_formatted": "4/19/2023, 5:37:06 PM",
+    "expiration": "1682005026",
+    "expiration_formatted": "4/20/2023, 5:37:06 PM",
+    "reason": "ducky is eating me"
+  }
+}
